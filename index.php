@@ -1,1 +1,4 @@
-<?php echo "Olá Mundo"; ?>
+<?php 
+echo "Olá Mundo"; 
+echo "123456";
+?>
